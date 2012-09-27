@@ -105,7 +105,7 @@ class ResponsivePreview
 		
 		// display the button
 		echo '<div class="misc-pub-section misc-pub-section-last" style="border-top: 1px solid #eee;">';
-		echo '<p class="rwd-button"><a title="Click this button to load this content in a new window in various browser sizes." href="'.$rwd_view.'" class="button-secondary" target="_blank">View in Responsinator</a></p>';
+		echo '<p class="rwd-button"><a title="Click this button to load this content in a new window in various browser sizes." href="'.$rwd_view.'" class="button-secondary" target="_blank">Preview Responsive</a></p>';
 		echo '</div>';
 
 	}
